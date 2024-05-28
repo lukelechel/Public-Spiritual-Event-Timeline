@@ -48,21 +48,21 @@
     },
     {
         "title": "Samuel finished writing Judges",
-        "dateInEDTFFormat": "bce1100?",
+        "dateInEDTFFormat": "bce~1100",
         "verifiableSourceURLs": [
             "https://www.jw.org/finder?wtlocale=E&docid=1200000970&srctype=wol&srcid=share&par=262-263"
         ]
     },
     {
         "title": "Samuel finished writing Ruth",
-        "dateInEDTFFormat": "bce1090?",
+        "dateInEDTFFormat": "bce~1090",
         "verifiableSourceURLs": [
             "https://www.jw.org/finder?wtlocale=E&docid=1200000970&srctype=wol&srcid=share&par=264-265"
         ]
     },
     {
         "title": "Writing of 1 Samuel finished",
-        "dateInEDTFFormat": "bce1078?",
+        "dateInEDTFFormat": "bce~1078",
         "verifiableSourceURLs": [
             "https://www.jw.org/finder?wtlocale=E&docid=1200000970&srctype=wol&srcid=share&par=266-267"
         ]
